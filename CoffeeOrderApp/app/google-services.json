@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657619685989",
+    "project_id": "orderapp-50c19",
+    "storage_bucket": "orderapp-50c19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657619685989:android:9d290d48caa0eb34012c8c",
+        "android_client_info": {
+          "package_name": "com.example.orderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657619685989-0tmc451rcbr1ripg2q4ndqu9fb5tco46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI71CaN1Q2DWzypfqCVo8C2f7cH-z9h4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657619685989-0tmc451rcbr1ripg2q4ndqu9fb5tco46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
